@@ -32,10 +32,6 @@ Welcome to SoulBOT, a revolutionary mental health app developed by  Shivani and 
      - For users who prefer or require sign language communication, a dedicated option is available. By selecting this option, users can engage in counseling sessions with therapists who communicate using sign language.
      - The video feed during these sessions includes a split-screen view, displaying both the user's video and the therapist's sign language communication.
 
-   - **Session History and Progress Tracking:**
-     - The app maintains a secure history of counseling sessions, allowing users to reflect on their progress over time.
-     - Progress tracking tools, such as mood journals and goal-setting features, are integrated to provide a holistic view of the user's mental health journey.
-
 ### 3. **Similar Interest Connection:**
    - Connect with like-minded individuals who share similar interests, fostering a supportive community.
 
