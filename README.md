@@ -10,12 +10,12 @@ Welcome to SoulBOT, a revolutionary mental health app developed by  Shivani and 
 
 ### 2. **Counseling Sessions:**
    - **Individualized Voice Cloning:**
-     - Users have the option to upload a specific voice or select a voice profile that resonates with them. The app employs advanced voice cloning technology to replicate the therapist's voice in the chosen style.
+     - Users have the option to upload a specific voice or select a voice profile that resonates with them. The app employs advanced voice cloning technology to replicate the therapist's voice in the chosen style, providing a comforting and personalized experience.
      - This personalized voice feature aims to enhance the comfort and connection users feel during counseling sessions.
 
-   - **Sign Language Integration:**
-     - For users who prefer or require sign language communication, a dedicated option is available. By selecting this option, users can engage in counseling sessions with therapists who communicate using sign language.
-     - The video feed during these sessions includes a split-screen view, displaying both the user's video and the therapist's sign language communication.
+   - **Bot-Mediated Therapy Sessions:**
+     - To address concerns about judgment or anxiety, users have the option to engage in therapy sessions facilitated by a bot. The bot acts as an intermediary, providing a secure and non-judgmental space for users to express themselves.
+     - These bot-mediated sessions can serve as a stepping stone for users before transitioning to sessions with human therapists, fostering a gradual and comfortable experience.
 
    - **Flexible Session Formats:**
      - Users can choose between voice-only sessions, video sessions with or without personalized voice cloning, and sign language sessions.
@@ -24,20 +24,17 @@ Welcome to SoulBOT, a revolutionary mental health app developed by  Shivani and 
    - **Therapist Matching:**
      - The app provides a matching algorithm that considers user preferences, therapy goals, and communication preferences to pair users with therapists who align with their needs.
      - Users can view therapist profiles, including their specialties, communication style, and availability.
+    
+   - **Feedback and Ratings:**
+     - After each session, users have the opportunity to provide feedback and ratings for their therapists. This helps improve the matching algorithm and ensures quality assurance.
+
+   - **Sign Language Integration:**
+     - For users who prefer or require sign language communication, a dedicated option is available. By selecting this option, users can engage in counseling sessions with therapists who communicate using sign language.
+     - The video feed during these sessions includes a split-screen view, displaying both the user's video and the therapist's sign language communication.
 
    - **Session History and Progress Tracking:**
      - The app maintains a secure history of counseling sessions, allowing users to reflect on their progress over time.
      - Progress tracking tools, such as mood journals and goal-setting features, are integrated to provide a holistic view of the user's mental health journey.
-
-   - **Feedback and Ratings:**
-     - After each session, users have the opportunity to provide feedback and ratings for their therapists. This helps improve the matching algorithm and ensures quality assurance.
-
-   - **Privacy and Security:**
-     - All counseling sessions, whether voice, video, or sign language, are encrypted to guarantee user privacy.
-     - Secure user authentication and strict data protection measures are in place to maintain confidentiality.
-
-By integrating these features, your mental health app aims to provide a diverse and inclusive platform for users to connect with therapists in a way that aligns with their unique preferences and needs.
-
 
 ### 3. **Similar Interest Connection:**
    - Connect with like-minded individuals who share similar interests, fostering a supportive community.
@@ -68,7 +65,7 @@ By integrating these features, your mental health app aims to provide a diverse 
      - Users have full control over their data and conversations. You can trust that your interactions within the app are not susceptible to unauthorized recording, safeguarding your privacy and peace of mind.
 
 
-### 10. **Avatars for Attention:**
+### 10. **Avatars:**
     - Customize your profile with avatars to maintain privacy while fostering a creative and positive community.
 
 ### 11. **Appreciation Coins and Incentives:**
