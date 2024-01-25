@@ -1,6 +1,10 @@
 
 # SoulBOT: Your AI Soulmate 🤖🧠
 
+
+https://github.com/sneha-4-22/SoulBOT/assets/112711068/36850031-d129-4aa7-bd52-8f06c8ed98f8
+
+
 Welcome to SoulBOT, a revolutionary mental health app developed by  Shivani and Sneha . SoulBOT is designed to provide a holistic approach to well-being by combining advanced generative AI algorithms with personalized features aimed at enhancing communication with therapists.
 
 ## Features:
