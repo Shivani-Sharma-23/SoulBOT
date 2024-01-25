@@ -46,6 +46,6 @@ Welcome to SoulBOT, a revolutionary mental health app developed by  Shivani and 
    - **User Control:**
      - Users have full control over their data and conversations. You can trust that your interactions within the app are not susceptible to unauthorized recording, safeguarding your privacy and peace of mind.
 
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋&center=true&size=30">
+ <img src="https://github.com/Shivani-Sharma-23/SoulBOT/blob/main/SoulBOT.png">
   
 
