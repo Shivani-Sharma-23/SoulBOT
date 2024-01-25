@@ -65,9 +65,4 @@ Welcome to SoulBOT, a revolutionary mental health app developed by  Shivani and 
      - Users have full control over their data and conversations. You can trust that your interactions within the app are not susceptible to unauthorized recording, safeguarding your privacy and peace of mind.
 
 
-### 10. **Avatars:**
-    - Customize your profile with avatars to maintain privacy while fostering a creative and positive community.
-
-### 11. **Appreciation Coins and Incentives:**
-    - Earn appreciation coins as a reward system for positive engagement.
 
