@@ -36,25 +36,7 @@ Welcome to SoulBOT, a revolutionary mental health app developed by  Shivani and 
      - For users who prefer or require sign language communication, a dedicated option is available. By selecting this option, users can engage in counseling sessions with therapists who communicate using sign language.
      - The video feed during these sessions includes a split-screen view, displaying both the user's video and the therapist's sign language communication.
 
-### 3. **Similar Interest Connection:**
-   - Connect with like-minded individuals who share similar interests, fostering a supportive community.
-
-### 4. **Fitness Buddy:**
-   - Pair up with a fitness buddy to encourage physical activity and well-being.
-
-### 5. **Appreciation and Daily Reminders:**
-   - Receive daily reminders and positive affirmations to promote self-care and appreciation.
-
-### 6. **Negative Post Filters:**
-   - Foster a positive environment by implementing filters for negative content.
-
-### 7. **Journal and Progress Analysis:**
-   - Keep a private journal and track your progress to reflect on your mental health journey.
-
-### 8. **Success Stories and Collaboration:**
-   - Share your success story and collaborate with others to inspire and support one another.
-
-### 9. **Prohibited Screen Recording:**
+### 3. **Prohibited Screen Recording:**
    - SoulBOT is designed to protect your confidential interactions. Screen recording within the app is strictly prohibited to prevent any unauthorized capture of personal content or misuse of voice cloning.
 
    - **How it Works:**
