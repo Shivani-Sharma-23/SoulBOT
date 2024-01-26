@@ -1,7 +1,6 @@
 
 <h1 align="center">SoulBOT: Your AI Soulmate 🤖🧠</h1>
-
-
+<img  src="./borderseperator.gif">
 
 https://github.com/sneha-4-22/SoulBOT/assets/112711068/36850031-d129-4aa7-bd52-8f06c8ed98f8
 
