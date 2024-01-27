@@ -49,4 +49,4 @@ Welcome to SoulBOT, a revolutionary mental health app developed by  Shivani and 
 
  <img src="https://github.com/Shivani-Sharma-23/SoulBOT/blob/main/SoulBOT.png">
   <h1>Check out our application here:</h1>
-soul-42z6o7kr3-shivani-sharmas-projects.vercel.app
+https://soul-bot-nu.vercel.app/
