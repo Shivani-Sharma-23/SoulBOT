@@ -1,3 +1,8 @@
+#about {
+  background-image: url("images/bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
 .circle {
     width: 148px;
     height: 148px;
