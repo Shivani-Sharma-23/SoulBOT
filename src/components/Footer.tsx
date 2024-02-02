@@ -1,9 +1,9 @@
 import React from 'react';
 import '@fortawesome/fontawesome-free/css/all.min.css';
-
+import "./footers.css";
 const Footer = () => {
   return (
-    <footer className="bg-blue-900 text-white text-center text-lg-start">
+    <footer  id="footer" className="bg-blue-900 text-white text-center text-lg-start">
       <section className="d-flex justify-content-center justify-content-lg-between p-4 border-b border-blue-1900">
         <div className="me-5 d-none lg:block">
           <span>Get connected with us on social networks:</span>
@@ -111,7 +111,7 @@ const Footer = () => {
         </div>
       </section>
 
-      <div className="text-center p-4" style={{ backgroundColor: 'rgb(2,0,121)' }}>
+      <div className="text-center p-4" /*style={{ backgroundColor: 'rgb(2,0,121)' }}*/ id='footer'>
         © 2024 Copyright:
         <a className="text-reset font-bold">
           SoulBot
