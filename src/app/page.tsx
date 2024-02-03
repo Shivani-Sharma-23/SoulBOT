@@ -8,9 +8,9 @@ export default function Home() {
   return (
     <main className="">
       <HeroSection />
-      <AboutSection />
-      <TestimonialSection />
+      <AboutSection /> 
       <ServiceSection />
+      <TestimonialSection />
       <Footer />
     </main>
   );
