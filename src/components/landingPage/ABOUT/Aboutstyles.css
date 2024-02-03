@@ -1,29 +1,6 @@
-.circle {
-    width: 148px;
-    height: 148px;
-    background-color: #D9D9D9;
-    border-radius: 50%;
-    position: absolute;
-  }
-.pos-left {
-    left: 2%;
-  }
-.pos-right {
-    right: 2%;
-  }
-.pos-top-left {
-    top: 250px;
-    left: 20%;
-  }
-.pos-top-right {
-    top: 250px;
-    right: 20%;
-  }
-@media (max-width: 480px) {
-    .pos-top-left {
-      left: 2%;
-    }
-   .pos-top-right {
-      right: 2%;
-    }
-  }
+#about {
+  background-image: url("images/bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
